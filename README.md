@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er4files&label=Profile%20views&color=0e75b6&style=flat" alt="er4files" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er4files" alt="er4files" /></a> </p>
-
 - 🌱 I’m currently learning **Internet of Things (IoT) and Mobile app development to support connectivity**
 
 - 📫 How to reach me **rahmaderasugiarto@gmail.com**
