@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er4files&label=Profile%20views&color=0e75b6&style=flat" alt="er4files" /> </p>
 
-- 🌱 I'm currently exploring the world of programming! 🚀 Focused on mastering programming languages and sharing tutorial content across various social media platforms. Join me on this tech journey! 💻✨ 
-- 👀 Dive into my content on TikTok! Check it out at https://www.tiktok.com/@er4filess 🚀✨
+- 🌱 I'm currently **exploring the world of programming! 🚀 Focused on mastering programming languages and sharing tutorial content across various social media platforms. Join me on this tech journey! 💻✨** 
+- 👀 Dive into **my content on TikTok! Check it out at https://www.tiktok.com/@er4filess 🚀✨**
 - 📫 How to reach me **rahmaderasugiarto@gmail.com**
 
 - ⚡ Fun fact **i think I am easily sociable and adaptable to new environments. and i am so funny :)**
