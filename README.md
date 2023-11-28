@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rahmad-era-sugiarto-03280b247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmad era sugiarto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahmadera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmad era sugiarto" height="30" width="40" /></a>
 <a href="https://www.instagram.com/er4files/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er4files" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCtlK_2arv82fT5GzhJvG_Hw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahmad era sugiarto" height="30" width="40" /></a>
 </p>
