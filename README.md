@@ -1,76 +1,79 @@
-<h1 align="center">Hi 👋, I'm Rahmad Era Sugiarto</h1>
-<h3 align="center">Tech Enthusiast | IoT Engineer | Mobile & Web Developer | Creative Content Creator | Student at Jember State Polytechnic</h3>
+# Hi there 👋!
+<a align="left" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Rahmad+Era+Sugiarto;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%8F%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%85%E3%83%AA%E3%83%A4%E3%83%B3%E3%82%B7%E3%83%A4%E3%83%95%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0;mi+chiamo+Rahmad+Era+Sugiarto;nama+saya+Rahmad+Era+Sugiarto" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=er4files&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<!--Start Intro-->               
+<p align="left">Tech Enthusiast | IoT Engineer | Mobile & Web Developer | Creative Content Creator | Student at Jember State Polytechnic</p>
+- 🎓 I am a passionate tech enthusiast currently specializing in Information Technology and Computer Engineering at Jember State Polytechnic.<br>
+- 💻 With a versatile background in web development, Android application development, Internet of Things (IoT), and graphic design, I am proficient in Python, JavaScript, Laravel, PHP, C++, Kotlin, and Flutter.<br>
+- 🚀 Dedicated to exploring innovative solutions and continuously enhancing my skill set in both software and hardware development.<br>
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=er4files&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="profile count" style="padding-right:20px;" />
 </p>
 
 ---
+<!--Languages and Tools Section-->       
+<h2 align="left">✨ My stacks and stats</h2>
+<br>
 
-### 🌱 About Me
-
-- 🔭 Currently exploring the world of programming 🚀
-- 🧑‍💻 Focused on mastering programming languages and creating tutorials across social media 💻
-- 🎥 Check out my tech content on TikTok at [TikTok](https://www.tiktok.com/@er4files) 🚀✨
-- 💬 Connect with me via email at **rahmaderasugiarto@gmail.com**
-- ⚡ Fun fact: I’m sociable, adaptable, and I’ve got a great sense of humor 😄
-
----
-
-### 🤝 Connect with Me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahmadera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/er4files/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCtlK_2arv82fT5GzhJvG_Hw" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/er4files" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
+<p align="left">
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,flutter,arduino,c,figma,firebase,laravel,mysql,php,python,sqlite,mongo,androidstudio,vscode,git,=20"  />
 </p>
+<a href="https://github.com/er4files/github-readme-stats">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&layout=compact&langs_count=8&card_width=270" />
+</picture>
+</a>
+<a href="https://github.com/er4files/convoychat">
+   <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=er4files&show_icons=true&theme=dark&card_width=520"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=er4files&show_icons=true&card_width=520"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=er4files&layout=compact&langs_count=8" />
+</picture>
+   </a>
+<!--    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er4files&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> -->
 
----
+<br><div>All my work is stored in __Organization repositories__ 💔, so my stats can't be fully displayed. However, traces of my contributions can be seen below as this snake 🐍 devours them</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-### 🛠️ Languages and Tools:
+<!--Contact Section--> 
 
-<p align="center">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-</p>
+<h2 align="left">✉️ My Contacts</h2>
+<div align="left">
+ <a href="https://www.linkedin.com/in/rahmadera/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-right: 5px;" />
+</a>
+  
+<a href="mailto:rahmaderasugiarto@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zulian.adryan@gmail.com mail" style="margin-right: 5px;" />
+</a>
 
----
+<a href="https://www.instagram.com/er4files" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="er4filesn Instagram" style="margin-right: 5px;" />
+</a>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=er4files&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er4files&" alt="GitHub Streak Stats" />
-</p>
+</div>
+<br/>
