@@ -52,7 +52,7 @@
    </a>
 <!--    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er4files&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> -->
 
-<br><div>Since all my work is stored in the __Organization 's repositories__ 📁, my contribution stats can’t be fully displayed. However, you can view my contribution trail below as this snake 🐍 devours it all!</div>
+<br><div>All my work is in the __Organization repositories__ 📁, so my stats aren’t fully visible. Check out my contribution trail below as this snake 🐍 devours it!</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
