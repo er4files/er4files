@@ -34,7 +34,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&layout=compact&langs_count=8&card_width=270" />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&layout=compact&langs_count=8" />
 </picture>
 </a>
 <a href="https://github.com/er4files/convoychat">
