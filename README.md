@@ -22,17 +22,17 @@
 <br>
 
 <p align="left">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,flutter,arduino,c,figma,firebase,laravel,mysql,php,python,sqlite,mongo,androidstudio,vscode,git&perline=20"  />
+<img width="800px"  src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,flutter,arduino,c,figma,firebase,laravel,mysql,php,python,sqlite,mongo,androidstudio,vscode,git&perline=20"  />
 </p>
 <a href="https://github.com/er4files/github-readme-stats">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: dark&card_width=520)"
+    media="(prefers-color-scheme: dark&card_width=400)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light&card_width=520), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light&card_width=400), (prefers-color-scheme: no-preference)"
   />
   <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=er4files&show_icons=true&layout=compact&langs_count=8" />
 </picture>
