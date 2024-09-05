@@ -1,5 +1,5 @@
 # Hi there 👋!
-<a align="left" href="https://git.io/typing-svg">
+<a align="left" href="https://git.io/typing-svg" style="color: red;">
   <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Rahmad+Era+Sugiarto;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%8F%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%85%E3%83%AA%E3%83%A4%E3%83%B3%E3%82%B7%E3%83%A4%E3%83%95%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0;mi+chiamo+Rahmad+Era+Sugiarto;nama+saya+Rahmad+Era+Sugiarto" alt="Typing SVG" />
 </a>
 
@@ -22,7 +22,7 @@
 <br>
 
 <p align="left">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,flutter,arduino,c,figma,firebase,laravel,mysql,php,python,sqlite,mongo,androidstudio,vscode,git,=20"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,flutter,arduino,c,figma,firebase,laravel,mysql,php,python,sqlite,mongo,androidstudio,vscode,git&perline=20"  />
 </p>
 <a href="https://github.com/er4files/github-readme-stats">
   <picture>
@@ -63,17 +63,22 @@
 
 <h2 align="left">✉️ My Contacts</h2>
 <div align="left">
- <a href="https://www.linkedin.com/in/rahmadera/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-right: 5px;" />
-</a>
+  <a href="https://www.linkedin.com/in/rahmadera/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 5px;" />
+  </a>
   
-<a href="mailto:rahmaderasugiarto@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zulian.adryan@gmail.com mail" style="margin-right: 5px;" />
-</a>
+  <a href="mailto:rahmaderasugiarto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 5px;" />
+  </a>
 
-<a href="https://www.instagram.com/er4files" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="er4filesn Instagram" style="margin-right: 5px;" />
-</a>
+  <a href="https://www.instagram.com/er4files" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 5px;" />
+  </a>
+
+  <a href="https://www.youtube.com/@er4files" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-right: 5px;" />
+  </a>
+</div>
 
 </div>
 <br/>
