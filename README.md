@@ -1,6 +1,6 @@
 # Hi there 👋!
 <a align="left" href="https://git.io/typing-svg" style="color: red;">
-  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Rahmad+Era+Sugiarto;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%8F%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%85%E3%83%AA%E3%83%A4%E3%83%B3%E3%82%B7%E3%83%A4%E3%83%95%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0;mi+chiamo+Rahmad+Era+Sugiarto;nama+saya+Rahmad+Era+Sugiarto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Rahmad+Era+Sugiarto;mi+chiamo+Rahmad+Era+Sugiarto;nama+saya+Rahmad+Era+Sugiarto" alt="Typing SVG" />
 </a>
 
 <!--Start Intro-->               
