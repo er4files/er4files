@@ -22,7 +22,7 @@
 <br>
 
 <p align="left">
-<img width="800px"  src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,flutter,arduino,c,figma,firebase,laravel,mysql,php,python,sqlite,mongo,androidstudio,vscode,git&perline=20"  />
+<img width="900px"  src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,flutter,arduino,c,figma,firebase,laravel,mysql,php,python,sqlite,mongo,androidstudio,vscode,git&perline=20"  />
 </p>
 <a href="https://github.com/er4files/github-readme-stats">
   <picture>
