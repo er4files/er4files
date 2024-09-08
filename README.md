@@ -78,7 +78,16 @@
   <a href="https://www.youtube.com/@er4files" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-right: 5px;" />
   </a>
+
+  <a href="https://x.com/er4files" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-right: 5px;" />
+  </a>
+
+  <a href="https://www.tiktok.com/@er4files" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="margin-right: 5px;" />
+  </a>
 </div>
+
 
 </div>
 <br/>
